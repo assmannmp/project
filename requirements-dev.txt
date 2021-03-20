@@ -18,7 +18,7 @@ httpserver==1.1.0
 httptools==0.0.13
 idna==2.8
 itsdangerous==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 marshmallow==2.19.1
 numpy==1.16.2
