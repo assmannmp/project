@@ -27,7 +27,7 @@ Pillow==5.4.1
 pockets==0.7.2
 promise==2.2.1
 python-multipart==0.0.5
-PyYAML==5.1
+PyYAML==5.4
 render==1.0.0
 render-python==2.2.0
 requests==2.21.0
